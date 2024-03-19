@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.stay{
+    width: 100px;
+    height: 100px;
+    margin: auto;
+    border:  3px solid black;
+}
